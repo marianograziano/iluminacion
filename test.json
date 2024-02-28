@@ -1,0 +1,104 @@
+[
+    {
+        "Codigo": "U1.5",
+        "Descripcion": "UNIPOLAR FLEXIBLE DE  1,50 mm²",
+        "Precio": 332,
+        "Tipo": "Unipolar"
+    },
+    {
+        "Codigo": "U2.5",
+        "Descripcion": "UNIPOLAR FLEXIBLE  DE  2,50 mm²",
+        "Precio": 546.2,
+        "Tipo": "Unipolar"
+    },
+    {
+        "Codigo": "U4",
+        "Descripcion": "UNIPOLAR FLEXIBLE DE  4 mm²",
+        "Precio": 836,
+        "Tipo": "Unipolar"
+    },
+    {
+        "Codigo": "U6",
+        "Descripcion": "UNIPOLAR FLEXIBLE DE  6 mm²",
+        "Precio": 1210,
+        "Tipo": "Unipolar"
+    },
+    {
+        "Codigo": "U10",
+        "Descripcion": "UNIPOLAR FLEXIBLE DE  10 mm²",
+        "Precio": 1932,
+        "Tipo": "Unipolar"
+    },
+    {
+        "Codigo": "U16",
+        "Descripcion": "UNIPOLAR FLEXIBLE DE  16 mm²",
+        "Precio": 3070,
+        "Tipo": "Unipolar"
+    },
+    {
+        "Codigo": "U25",
+        "Descripcion": "UNIPOLAR FLEXIBLE DE  25 mm²",
+        "Precio": 5600,
+        "Tipo": "Unipolar"
+    },
+    {
+        "Codigo": "UB1.5",
+        "Descripcion": "UNIPOLAR DE  1,50 mm²   X 800 MTS",
+        "Precio": null,
+        "Tipo": "Unipolar bobina"
+    },
+    {
+        "Codigo": "UB2.5",
+        "Descripcion": "UNIPOLAR DE  2,50 mm²  X 600 MTS",
+        "Precio": null,
+        "Tipo": "Unipolar bobina"
+    },
+    {
+        "Codigo": "UB4",
+        "Descripcion": "UNIPOLAR DE  4 mm²   X 400 MTS",
+        "Precio": null,
+        "Tipo": "Unipolar bobina"
+    },
+    {
+        "Codigo": "UB6",
+        "Descripcion": "UNIPOLAR  DE  6 mm²   X 300 MTS",
+        "Precio": null,
+        "Tipo": "Unipolar bobina"
+    },
+    {
+        "Codigo": "P0,75",
+        "Descripcion": "TIPO PARALELO DE 0,75 mm²",
+        "Precio": 400,
+        "Tipo": "Paralelo"
+    },
+    {
+        "Codigo": "P1",
+        "Descripcion": "TIPO PARALELO  DE 1,00 mm²",
+        "Precio": 550,
+        "Tipo": "Paralelo"
+    },
+    {
+        "Codigo": "P1,5",
+        "Descripcion": "TIPO PARALELO  DE 1,50 mm²",
+        "Precio": 650,
+        "Tipo": "Paralelo"
+    },
+    {
+        "Codigo": "P2,5",
+        "Descripcion": "TIPO PARALELO DE 2,50 mm²",
+        "Precio": 1030,
+        "Tipo": "Paralelo"
+    },
+    {
+        "Codigo": "B0,75",
+        "Descripcion": "TIPO BIPOLAR-R/N DE 0,75 mm²",
+        "Precio": 400,
+        "Tipo": "Bipolar rojo negro"
+    },
+    {
+        "Codigo": "B1",
+        "Descripcion": "TIPO BIPOLAR -R/N  DE 1,00 mm²",
+        "Precio": 550,
+        "Tipo": "Bipolar rojo negro"
+    }
+]
